@@ -1,0 +1,1 @@
+console.log("Boku No Hero Academia");

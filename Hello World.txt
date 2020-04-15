@@ -1,2 +1,7 @@
 Hello World!!!!
+<<<<<<< HEAD
 Aqui está a tradução: "Olá Mundo"
+=======
+Aqui diz olá mundo...
+Meu nome é Jonas Cappi
+>>>>>>> Teste
