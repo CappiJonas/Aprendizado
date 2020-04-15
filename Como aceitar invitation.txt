@@ -1,0 +1,5 @@
+You can also see the invite if you know which repo you were invited to:
+
+ 
+
+https://github.com/username/reponame/invitations 
